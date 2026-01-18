@@ -1,4 +1,4 @@
-### 2. สำหรับ Frontend (Angular)
+###  สำหรับ Frontend (Angular)
 ([github.com/ropubordee/reserve-table-cafe-frontend-angular](https://github.com/ropubordee/reserve-table-cafe-frontend-angular))
 
 ```markdown
